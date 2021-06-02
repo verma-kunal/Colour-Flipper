@@ -1,4 +1,4 @@
-# Colour-Flipper
+# Colour Flipper
 
 A Colour-Flipper based upon basic HTML, CSS and Javascript! <br>
 👉🏻 Choose your favourite colour from the pallete & use them in your project!!
